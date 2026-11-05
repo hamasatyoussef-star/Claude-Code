@@ -1,0 +1,9 @@
+{
+  "name": "Claude Code - Agentic CLI & Workspace Studio",
+  "description": "An interactive web simulator and workspace for Claude Code, featuring an agentic terminal, real-time tool execution, live file diffs, CLAUDE.md project memory, and autonomous task runner.",
+  "prompt": "Interactive web companion and terminal emulator for Claude Code with agentic workflows, file diff viewer, and project memory manager.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
